@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep sample, ignore large datasets)
+data/*.csv
+!data/sample_disaster_tweets.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Squad (build tool config)
+.squad/
+
+# Presentation build artifacts (keep final .pptx only)
+deck/
+DisasterLens_Presentation.pptx
+DisasterLens_Presentation_v2.pptx
+DisasterLens_Presentation_v3.pptx
+DisasterLens_Presentation_v3_redesign.pptx
+DisasterLens_Presentation_v4_clean_redesign.pptx
+~$*.pptx
+
+# Node modules (if any)
+node_modules/
+package-lock.json

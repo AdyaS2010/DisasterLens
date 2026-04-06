@@ -1,0 +1,201 @@
+id,text,urgency,disaster_type,location_mentioned
+1,"HELP! Trapped on second floor, water rising fast. 3 kids with me. 1847 Oak St, Houston TX. Please send rescue! #HarveyFlood #Houston",Critical,Flood,Houston
+2,"SOS! Building collapsed at 5th and Main in downtown LA. People screaming under rubble. Need heavy equipment NOW! #LAEarthquake",Critical,Earthquake,Los Angeles
+3,"Wildfire jumped the highway — we're surrounded near Paradise CA. No way out. Fire on all sides. HELP US #CampFire #Paradise",Critical,Wildfire,Paradise
+4,"My grandmother is trapped in her attic at 2301 Elm Dr, Miami. Water up to the roof. She can't swim. PLEASE HELP #HurricaneIan",Critical,Hurricane,Miami
+5,"EMERGENCY! Flash flood swept our car off the road near Cedar Rapids. My daughter is injured and bleeding. We're on the roof of the car. GPS: 41.9779° N 91.6656° W",Critical,Flood,Cedar Rapids
+6,"Entire apartment building on fire in Santa Rosa. Residents jumping from windows. Multiple injuries. Corner of Mendocino Ave and College. #TubbsFire",Critical,Wildfire,Santa Rosa
+7,"TRAPPED in collapsed parking garage downtown San Francisco. Can hear others crying for help. 3rd floor pancaked. Send search and rescue! #SFQuake",Critical,Earthquake,San Francisco
+8,"Storm surge flooding our nursing home in Fort Myers. 40+ elderly patients, some on oxygen. Generator failed. Water at 4 feet and rising! #HurricaneIan",Critical,Hurricane,Fort Myers
+9,"PLEASE HELP my neighbor is having a heart attack and we can't get EMS through the floodwaters. We're at Brays Bayou area Houston. No boats available!! #TexasFlood",Critical,Flood,Houston
+10,"MAYDAY — house fully engulfed, family of 5 trapped in basement. 742 Pine Ridge Rd, Redding CA. Fire dept can't reach us. #CarrFire",Critical,Wildfire,Redding
+11,"Building collapsed on 7th Street, Anchorage. I can see at least 10 people trapped. Gas leak smell is strong. EVACUATE THE AREA! #AlaskaEarthquake",Critical,Earthquake,Anchorage
+12,"Category 5 winds ripped roof off hospital in Panama City. ICU patients exposed to elements. Need immediate helicopter evac! #HurricaneMichael",Critical,Hurricane,Panama City
+13,"URGENT!! 3 children trapped in submerged school bus on Route 9 near Baton Rouge. Water moving fast. Any boats in the area PLEASE COME #BatonRougeFlood",Critical,Flood,Baton Rouge
+14,"Wildfire overran our evacuation route on Highway 101 near Ventura. Dozens of cars stopped. People running on foot. Air is unbreathable #ThomasFire",Critical,Wildfire,Ventura
+15,"6.8 magnitude aftershock just hit — more buildings down in downtown Seattle. People bleeding in the streets. This is catastrophic #SeattleQuake #PNW",Critical,Earthquake,Seattle
+16,"My mom is diabetic and insulin dependent. Trapped in flooded house at 445 Magnolia Blvd, Lake Charles. No power no phone battery dying HELP #HurricaneLaura",Critical,Hurricane,Lake Charles
+17,"WATER IS AT CEILING LEVEL. Family of 6 in attic at 1200 block of Tidwell Rd Houston. We have an infant. Breaking through roof. SEND BOATS #HoustonFlood",Critical,Flood,Houston
+18,"Can see flames 200 feet high approaching subdivision in Napa Valley. Mandatory evac but roads are blocked by fallen trees. WE CANNOT LEAVE #NapaFire",Critical,Wildfire,Napa
+19,"Apartment complex pancaked — 4 stories now 1. NE corner of Hayward and Mission Blvd, Hayward CA. Dozens trapped. Need every rescue unit available #HaywardFault",Critical,Earthquake,Hayward
+20,"Hospital generator failed during Cat 4 hurricane in Pensacola. Ventilator patients in critical danger. Need backup power IMMEDIATELY #HurricaneSally",Critical,Hurricane,Pensacola
+21,"FLASH FLOOD! Cars being swept away on I-10 near Beaumont TX. I'm on an overpass with about 30 other people. Water still rising fast #TXFlood",Critical,Flood,Beaumont
+22,"We're trapped on a ridge near Malibu. Fire coming from both canyons. Helicopter is our only option. 5 adults 2 children #WoolseyFire #Malibu",Critical,Wildfire,Malibu
+23,"MAJOR COLLAPSE at the mall in Memphis after earthquake. I can hear people screaming from under concrete. Parking structure down too #MemphisEarthquake",Critical,Earthquake,Memphis
+24,"Storm surge 15 feet at our house in Cape Coral. We're in the attic and water is still coming. Family of 4, one wheelchair-bound. #HurricaneIan #CapeCoral",Critical,Hurricane,Cape Coral
+25,"My street in Nashville is a river. Elderly couple next door couldn't evacuate in time. Their house is submerged. Please send rescue to 800 block of Shelby Ave #NashvilleFlood",Critical,Flood,Nashville
+26,"Fire tornado forming near Redding CA. Never seen anything like this. Houses exploding. People still in their homes. THIS IS NOT A DRILL #CarrFire #Redding",Critical,Wildfire,Redding
+27,"Gas main ruptured after earthquake in Salt Lake City. Explosions on 4th South. Buildings on fire. People running everywhere. Total chaos #SLCQuake",Critical,Earthquake,Salt Lake City
+28,"Category 4 eyewall passing over Naples FL right now. Roof gone. Walls cracking. 911 not answering. If anyone can hear this WE NEED HELP #HurricaneIrma",Critical,Hurricane,Naples
+29,"Levee breached near downtown Davenport IA. Wall of water coming through River Drive. People in buildings need to get to upper floors NOW #IowaFlood #Davenport",Critical,Flood,Davenport
+30,"Entire neighborhood of Boulder Creek on fire. Can't breathe. Roads are melting. We abandoned our car and are running uphill on foot with our kids #CZUFire",Critical,Wildfire,Boulder Creek
+31,"BRIDGE COLLAPSED during earthquake in Portland OR. Cars fell into river. Can see people in the water. Coast Guard where are you?! #PDXQuake",Critical,Earthquake,Portland
+32,"Eye of hurricane passing over Key West. Our shelter roof just failed. 200+ people exposed. Children screaming. Need immediate structural support #HurricaneIrma",Critical,Hurricane,Key West
+33,"Rescue needed NOW. Floodwater swept my truck off bridge near Ellicott City MD. I'm clinging to a tree. Current is too strong. Battery at 3% #ECFlood",Critical,Flood,Ellicott City
+34,"Fire jumped the firebreak into residential areas of Colorado Springs. Homes exploding from gas lines. People still trying to evacuate on foot #WaldoCanyon",Critical,Wildfire,Colorado Springs
+35,"Multiple structures collapsed in downtown Napa after quake. People trapped in wine bar on 1st Street. Can hear them calling for help #NapaEarthquake",Critical,Earthquake,Napa
+36,"Storm surge flooding first floor of apartment complex in Port Charlotte FL. Elderly residents can't get upstairs. Water rising fast SEND HELP #HurricaneIan",Critical,Hurricane,Port Charlotte
+37,"Flash flood in Zion National Park — hikers trapped in The Narrows. At least 20 people. Water waist-deep and rising. Canyon walls no escape route #ZionFlood #Utah",Critical,Flood,Zion National Park
+38,"Ember storm ignited 50+ homes simultaneously in Lahaina. No warning. People trapped between ocean and fire. Mass casualty event #MauiFires #Lahaina",Critical,Wildfire,Lahaina
+39,"Building collapse at 6.4 aftershock in San Jose. Can see rebar and concrete everywhere on Santa Clara St. People buried. #BayAreaQuake #SanJose",Critical,Earthquake,San Jose
+40,"HELP!! Storm ripped our roof and exterior wall off. Family of 5 exposed to Cat 4 winds in Punta Gorda FL. Children are injured. 911 busy #HurricaneCharley",Critical,Hurricane,Punta Gorda
+41,"Need insulin refrigerated ASAP. Been without power 3 days at Red Cross shelter in Wilmington NC. My supply won't last another day. Anyone? #HurricaneFlorence",High,Hurricane,Wilmington
+42,"Water receding on our street in Midland MI but we have no drinking water. Family of 5 including toddler. Can anyone bring supplies to Eastlawn Dr area? #MidlandFlood",High,Flood,Midland
+43,"Our neighborhood in Chico needs N95 masks desperately. Smoke is so thick you can't see across the street. Kids are coughing nonstop #CampFire #Chico",High,Wildfire,Chico
+44,"Aftershocks won't stop in Ridgecrest CA. Our house is cracked and unsafe but we have nowhere else to go. Any shelters open? #RidgecrestEarthquake",High,Earthquake,Ridgecrest
+45,"Stranded on I-45 near Galveston. Car flooded out. Pregnant wife with me. Water up to the doors. If anyone has a boat heading this direction PLEASE #GalvestonFlood",High,Flood,Galveston
+46,"Lost everything in the fire. Family of 4 sleeping in our car near Sonoma. No clothes no food no money. Where do we go? #SonomaFire #displaced",High,Wildfire,Sonoma
+47,"Shelter at convention center in Lake Charles is overcrowded. No AC, 95 degrees. Elderly people passing out. Need more fans and water URGENTLY #HurricaneLaura",High,Hurricane,Lake Charles
+48,"Stuck on our roof in Conway SC. Water too deep to wade. Been here since 3am. 2 adults, 1 dog. Running out of water. Someone please come #SCFlood #Florence",High,Flood,Conway
+49,"Our house shifted off foundation in Northridge. Gas smell everywhere. Can't find our cat. Afraid to go back inside but all our meds are in there #NorthridgeQuake",High,Earthquake,Northridge
+50,"Winds still 90mph in Houma LA. Roof is leaking badly. All our belongings getting soaked. Can't leave because of flying debris outside #HurricaneIda",High,Hurricane,Houma
+51,"Need baby formula desperately. Stores are all closed or flooded in Spring TX. Our supply ran out yesterday. Baby is 4 months old. DM me if you can help #HarveyRelief",High,Flood,Spring
+52,"Wildfire smoke making it impossible for my asthmatic son to breathe in Medford OR. ER is packed. Anyone have a spare inhaler?? #OregonFires #Medford",High,Wildfire,Medford
+53,"Anyone know of open shelters in Tuscaloosa? Apartment flooded completely. Have 3 kids and nowhere to go tonight. Already tried Salvation Army — full. #ALFlood",High,Flood,Tuscaloosa
+54,"Earthquake damaged water main on our block in El Centro CA. No running water for 200+ homes. Been 48 hours. County not responding to calls #ElCentroQuake",High,Earthquake,El Centro
+55,"Trapped in hotel in Panama City Beach. Windows blown out, hallways flooded. 50+ guests in ballroom. Running low on food. Need rescue boats #HurricaneMichael",High,Hurricane,Panama City Beach
+56,"Fire is 1 mile from our house in San Bernardino. Packed the car but traffic isn't moving on the 210. Smoke getting worse. What do we do?? #SanBernardinoFire",High,Wildfire,San Bernardino
+57,"We've been without power for 5 days in Bayamón PR after the hurricane. My father needs his CPAP machine to sleep. He hasn't slept properly in days #HurricaneMaria",High,Hurricane,Bayamón
+58,"Flood water contaminated our well in rural West Virginia near Charleston. Family of 6 has no clean water source. Boil notice doesn't help when you have no power #WVFlood",High,Flood,Charleston
+59,"Need urgent help in Talent OR. Our trailer park burned down overnight. 30 families homeless. Most are migrant workers with no insurance. Setting up at community center #AlmedaFire",High,Wildfire,Talent
+60,"Foundation cracked badly after the 5.7 in Magna UT. House is listing to one side. Insurance adjuster can't come for 2 weeks. Where do we stay?? #UtahEarthquake",High,Earthquake,Magna
+61,"Running out of prescription heart medication. Pharmacy in Fort Myers Beach completely destroyed. Can't drive anywhere — roads impassable. Day 4. #HurricaneIan",High,Hurricane,Fort Myers Beach
+62,"Our entire first floor is underwater in Denham Springs LA. Saved what we could. Sleeping at a church. Need clothes for 2 adults and 3 kids sizes 4-8. #LaFlood",High,Flood,Denham Springs
+63,"Evacuation center in Santa Barbara packed beyond capacity. Hundreds outside in the parking lot with nowhere to go. Need more shelters opened NOW #ThomasFire",High,Wildfire,Santa Barbara
+64,"Gas leak in our apartment complex after earthquake in Inglewood. Building manager not responding. 60 units need to evacuate but where?? #LAQuake",High,Earthquake,Inglewood
+65,"Power out for 6th day in Slidell LA. All food spoiled. Nearest open store is 40 miles away. Elderly neighbors haven't eaten today. #HurricaneIda #Slidell",High,Hurricane,Slidell
+66,"Our basement pump failed during the flood in Dearborn MI. 4 feet of sewage water in our basement. Health hazard. City says they're overwhelmed #DearbornFlood",High,Flood,Dearborn
+67,"Fire reached our horse ranch outside Santa Clarita. 12 horses won't load into trailers. Need experienced handlers NOW. Fire 10 min away #SaddleRidgeFire",High,Wildfire,Santa Clarita
+68,"3 story building partially collapsed on University Ave in Berkeley. My roommate is inside — not answering phone. Can see cracks in the exterior walls #BayAreaQuake",High,Earthquake,Berkeley
+69,"Need dialysis. Haven't had treatment in 3 days since hurricane knocked out clinic in Sarasota. Starting to feel very sick. Where can I go?? #HurricaneIan",High,Hurricane,Sarasota
+70,"Rescued by boat from our home in Lumberton NC but left with nothing. At shelter with 2 kids. Need diapers formula and any kids clothes. #HurricaneMatthew",High,Flood,Lumberton
+71,"Wildfire evacuation with no car. Disabled veteran in Oroville CA. Can someone come get me? I'm on Olive Hwy near the dam. Smoke is bad. #ButteFire",High,Wildfire,Oroville
+72,"Just felt another strong aftershock in Ridgecrest. Ceiling fan fell and hit my daughter. She has a gash on her head. Can't drive to hospital — road buckled. #CalQuake",High,Earthquake,Ridgecrest
+73,"Shelter in New Bern NC ran out of blankets. Temps dropping to 50 tonight. Hundreds of families here including newborns. Please donate to Red Cross site #HurricaneFlorence",High,Hurricane,New Bern
+74,"Lost my car, house, and all documents in the Ellicott City flood. Don't even have an ID anymore. How do I start getting help? Does anyone know the process? #EllicottCityFlood",High,Flood,Ellicott City
+75,"Fire jumped containment line near Flagstaff AZ. Our camp was in the evacuation zone. 15 families just fled with whatever they could carry. Need shelter ASAP #PipelineFire",High,Wildfire,Flagstaff
+76,"Building inspector condemned our apartment in Eureka CA after the quake. 20 families displaced with no plan from the city. Where is FEMA?? #EurekaEarthquake",High,Earthquake,Eureka
+77,"9 days without power in rural Ponce PR. Running generator on last gallon of gas. Have a 6-month-old who needs refrigerated medicine. #HurricaneMaria #PuertoRico",High,Hurricane,Ponce
+78,"Mudslide after flood blocked only road out of our community in Montecito CA. 50+ homes cut off. Running low on supplies. Need helicopter drops #MontecitoFlood",High,Flood,Montecito
+79,"Fire approaching senior living facility in Healdsburg CA. Buses were supposed to come 2 hours ago. 80 residents waiting. WHERE ARE THE BUSES?? #KincadeFire",High,Wildfire,Healdsburg
+80,"Water main break from earthquake in Pasadena CA. Entire neighborhood flooded from broken pipes. No drinkable water. Store shelves empty #PasadenaQuake",High,Earthquake,Pasadena
+81,"Need volunteers to help gut flooded houses in Orange TX. Mold is already setting in. We have tools and supplies at First Baptist Church parking lot. #OrangeTX #HarveyRecovery",High,Flood,Orange
+82,"Can anyone with a 4WD help evacuate people from the Rim of the World area near Lake Arrowhead? Roads are narrow and fire is closing in fast #LakeArrowheadFire",High,Wildfire,Lake Arrowhead
+83,"Just finished my shift helping with search and rescue in Surfside after the quake. The devastation is unreal. We found 3 more survivors today. Long road ahead. #SurfsideQuake",High,Earthquake,Surfside
+84,"NO AC at the mega-shelter in Corpus Christi. 3000+ people inside. Heat index 108. Multiple people taken to medical tent. This is dangerous #HurricaneHarvey",High,Hurricane,Corpus Christi
+85,"Floodwater receding in Jackson MS revealing unbelievable damage. Our street looks like a war zone. Every car destroyed. Mud everywhere. Need cleanup volunteers badly #JacksonFlood",High,Flood,Jackson
+86,"Fire destroyed 90% of Gates OR. Population 500 but this was our whole town. Searching for missing neighbors. If you're from Gates please check in #BeachieCreekFire",High,Wildfire,Gates
+87,"Major structural damage to our school in Magna UT after the quake. Walls cracked floor to ceiling. 500 students need temporary facility ASAP #MagnaEarthquake",High,Earthquake,Magna
+88,"Running low on generator fuel in Sanibel Island. Bridge is out so no supplies coming in. 200 residents still here. Need fuel drops or boat delivery #HurricaneIan #Sanibel",High,Hurricane,Sanibel Island
+89,"Sewage plant overflowed during flood in St. Louis. Our whole neighborhood smells toxic. Kids have rashes. Health dept says stay inside but we have no AC #STLFlood",High,Flood,St. Louis
+90,"Evacuation order for Big Bear Lake CA but the only road down the mountain is jammed. Not moving at all. Fire is getting closer. Need alternate route info #BigBearFire",High,Wildfire,Big Bear Lake
+91,"Major structural damage on 5th Ave downtown Nashville after the quake. Several buildings with visible cracks. Engineers need to assess before anyone goes back in. #NashvilleEarthquake",Medium,Earthquake,Nashville
+92,"Hurricane took out every power line on our road in Tallahassee. FPL says could be 2-3 weeks before restoration. At least our house is intact. #HurricaneIdalia #Tallahassee",Medium,Hurricane,Tallahassee
+93,"Water level peaked at 6 feet on Main Street in Montpelier VT. Now slowly going down. Downtown businesses completely gutted. #VermontFlood #Montpelier",Medium,Flood,Montpelier
+94,"Smoke from the Caldor Fire is so thick in South Lake Tahoe you can barely see 50 feet. AQI over 500. Schools closed until further notice. #CaldorFire",Medium,Wildfire,South Lake Tahoe
+95,"Post-quake damage assessment: at least 15 buildings red-tagged in downtown Napa. Historic district took the worst of it. Brick facades everywhere. #NapaQuake",Medium,Earthquake,Napa
+96,"Eye of the hurricane passed over Punta Gorda around 4pm. Winds were insane. Now getting the back half. Stay sheltered everyone!! #HurricaneCharley #PuntaGorda",Medium,Hurricane,Punta Gorda
+97,"River crested at 37.2 feet in Grand Forks ND — highest in 25 years. Sandbag walls holding for now but barely. Need more volunteers for sandbagging shifts #GrandForksFlood",Medium,Flood,Grand Forks
+98,"Containment at 15% on the Dixie Fire near Quincy CA. Fire behavior is extreme. Spot fires popping up everywhere. Be ready to evacuate if you're in Plumas County. #DixieFire",Medium,Wildfire,Quincy
+99,"Cracks in the overpass on I-580 near Oakland after this morning's earthquake. CHP has it closed. Expect major traffic delays on alternates. Drive safe everyone. #OaklandQuake",Medium,Earthquake,Oakland
+100,"Damage assessment teams working through Caryville and LaFollette TN after the hurricane. So far 200+ homes with significant roof damage. #TNStorm",Medium,Hurricane,LaFollette
+101,"Flood insurance claim filed. Adjustor can't come for 3 weeks. Meanwhile our house in Fayetteville NC is growing mold. Any tips on remediation while we wait? #FloodRecovery",Medium,Flood,Fayetteville
+102,"Fire crews from Nevada and Oregon arriving in Shasta County to help fight the Carr Fire. Thank you to all the mutual aid teams! 🙏 #CarrFire #ShastaCounty",Medium,Wildfire,Shasta County
+103,"Liquefaction damage in Marina District SF after the quake. Streets buckled, some buildings leaning. Reminds me of '89 footage my parents showed me. #SFQuake",Medium,Earthquake,San Francisco
+104,"Finally got tarps on the roof in Port St. Lucie after Hurricane Nicole. Not pretty but it'll keep the rain out. Insurance process is a nightmare though. #HurricaneNicole",Medium,Hurricane,Port St. Lucie
+105,"Documenting damage on Riverside Dr in Tulsa after the Arkansas River flooding. Several homes have 3-4 feet of mud inside. Cleanup will take months. #TulsaFlood",Medium,Flood,Tulsa
+106,"Prescribed burn got out of control near Las Vegas NM. 15000 acres now. Evacuation warnings for surrounding communities. Stay vigilant. #HermitsPeakFire",Medium,Wildfire,Las Vegas
+107,"USGS confirmed 4.8 magnitude centered near Tewksbury NJ. Felt it strong in Manhattan. No major damage reported yet but buildings being inspected. #NJEarthquake",Medium,Earthquake,Tewksbury
+108,"Power restoration update for Ft. Lauderdale: 60% of customers back online after hurricane. Remaining areas expected by Friday. Crews working 18hr shifts. #HurricaneRelief",Medium,Hurricane,Fort Lauderdale
+109,"Volunteers needed this Saturday for flood cleanup in Waverly TN. Bring shovels gloves and work boots. Meet at the high school parking lot at 8am. #WaverlyFlood #TNStrong",Medium,Flood,Waverly
+110,"Fire perimeter map updated for the Marshall Fire in Boulder County. 1000+ homes confirmed destroyed. This is the most destructive fire in Colorado history. #MarshallFire",Medium,Wildfire,Boulder
+111,"Aftershock rattled windows in Westmorland CA around 2am. 3.5 magnitude. No new damage visible but everyone is on edge. Hard to sleep these days. #ImperialValleyQuake",Medium,Earthquake,Westmorland
+112,"Tree crews finally clearing our street in Daytona Beach. 5 days after the hurricane and this is the first time we can drive out. Progress! #HurricaneIan #DaytonaBeach",Medium,Hurricane,Daytona Beach
+113,"Des Moines River at major flood stage. Downtown businesses sandbagging. Water expected to crest Wednesday. Stay off the roads near the river bottoms. #DesMoinesFlood",Medium,Flood,Des Moines
+114,"Cal Fire strike teams setting up camp at Oroville Fairgrounds. 2000+ firefighters now battling the Thompson Fire. Grateful for their service. #ThompsonFire #Oroville",Medium,Wildfire,Oroville
+115,"Chimneys toppled in several neighborhoods around Magna UT after this morning's earthquake. Check yours before using it. #UtahQuake #MagnaUT",Medium,Earthquake,Magna
+116,"Insurance adjusters finally arriving in Port Charlotte after 2 weeks. Long lines at the FEMA assistance center. Bring your patience and all your documentation. #HurricaneIan",Medium,Hurricane,Port Charlotte
+117,"Community boat launch organized for flood rescue in Watson LA. If you have a flat-bottom boat and want to help meet at Walker Rd South. Coordinate with sheriff first. #WatsonFlood",Medium,Flood,Watson
+118,"Smoke column from the Oak Fire visible from 100 miles away in Fresno. Unreal. Prayers for Mariposa County residents. #OakFire #Fresno",Medium,Wildfire,Fresno
+119,"Post-earthquake building inspection results for downtown Anchorage: 22 commercial buildings yellow-tagged meaning restricted use only. Structural engineers overwhelmed with requests. #AKQuake",Medium,Earthquake,Anchorage
+120,"FPL deploying 10000 linemen across South Florida for hurricane recovery. Biggest mobilization in their history. Thank you to all utility crews traveling from out of state! #FLHurricane",Medium,Hurricane,South Florida
+121,"National Guard distributing water and MREs at Laplace Community Center after the flooding. Open 8am-6pm daily. Bring ID if possible but not required. #LaPlaceFlood",Medium,Flood,LaPlace
+122,"Fire retardant drop visible from our backyard in Vacaville CA. That bomber is so low. Scary but reassuring that they're fighting hard. #LNUFire #Vacaville",Medium,Wildfire,Vacaville
+123,"Caltrans assessing bridge damage on Highway 1 near Big Sur after the earthquake. Expect closures for at least a week. Use 101 as alternate route. #BigSurQuake",Medium,Earthquake,Big Sur
+124,"Damage reports coming in from Apalachicola FL. Storm surge pushed boats inland by quarter mile. Marina completely destroyed. #HurricaneMichael #Apalachicola",Medium,Hurricane,Apalachicola
+125,"Flood gauge in Minot ND showing 1565.1 feet — above major flood stage. Souris River still rising. City officials say crest expected Thursday. #MinotFlood",Medium,Flood,Minot
+126,"Bureau of Land Management crews creating firebreaks around communities near Bend OR. Appreciate the proactive approach given the extreme fire conditions. #OregonFires #Bend",Medium,Wildfire,Bend
+127,"My seismometer recorded 47 aftershocks in the last 24 hours here in Ridgecrest. Most small but a few felt pretty strong. Nerves are shot. #RidgecrestQuakes",Medium,Earthquake,Ridgecrest
+128,"Drone footage of hurricane damage in Mexico Beach FL is devastating. Entire blocks flattened. Hard to even tell where streets were. #HurricaneMichael #MexicoBeach",Medium,Hurricane,Mexico Beach
+129,"Army Corps of Engineers evaluating levee integrity along the Mississippi near Vicksburg. Some seepage reported but holding for now. Monitoring 24/7. #MississippiFlood",Medium,Flood,Vicksburg
+130,"Mandatory evacuation order lifted for parts of Riverside County near the Apple Fire. Some residents returning to find their homes standing — others not so lucky. #AppleFire",Medium,Wildfire,Riverside
+131,"Geological survey team mapping fault ruptures through Parkfield CA after the earthquake. Surface displacement measured at 8 inches in some areas. Fascinating and terrifying. #ParkfieldQuake",Medium,Earthquake,Parkfield
+132,"FEMA mobile units set up at Walmart parking lot in Panama City FL for hurricane assistance. Long wait but staff are helpful. Bring documents if you have them. #HurricaneMichael",Medium,Hurricane,Panama City
+133,"Community comes together to clean up after historic flood in Ellicott City MD. Howard County organized volunteer shifts. Sign up at the county website. #EllicottCityStrong",Medium,Flood,Ellicott City
+134,"Posting fire perimeter updates on my YouTube channel every 6 hours for the Bootleg Fire near Klamath Falls OR. Follow for real-time info. #BootlegFire #KlamathFalls",Medium,Wildfire,Klamath Falls
+135,"Structural engineer friend says the brick buildings on Main Street Napa should be seismically retrofitted before anyone goes back in. Unreinforced masonry is deadly. #NapaQuake",Medium,Earthquake,Napa
+136,"Update from Jacksonville: storm surge was lower than expected thankfully. Some beach erosion and minor coastal flooding. Could have been much worse. #HurricaneDorian #Jax",Medium,Hurricane,Jacksonville
+137,"Flood damage photos from Denton TX posted on our neighborhood Facebook page. Unrecognizable. Creek that was 2 feet wide is now 200 yards across. #DentonFlood",Medium,Flood,Denton
+138,"Air tanker base at McClellan Park in Sacramento running missions every 20 minutes for the Mosquito Fire. The scale of this operation is massive. #MosquitoFire #Sacramento",Medium,Wildfire,Sacramento
+139,"My dad's shop in El Centro CA had minor damage from the earthquake. Inventory on shelves fell, some glass broken. Could have been way worse though. #ElCentroQuake",Medium,Earthquake,El Centro
+140,"Tallying damage from the hurricane in Biloxi. Our boat is in the neighbor's yard. Their car is in ours. Mother Nature's game of musical chairs. #GulfCoastHurricane",Medium,Hurricane,Biloxi
+141,"Water treatment plant in Burlington VT back online after flood damage. Boil water advisory lifted for most of the city. Check your zone on city website. #BurlingtonFlood",Medium,Flood,Burlington
+142,"Mapped the Caldor Fire spread over the last 72 hours. 3000 acres per day in the Sierra. Wind patterns driving it northeast toward populated areas. #CaldorFire #Sierra",Medium,Wildfire,Sierra Nevada
+143,"University of Memphis canceling classes rest of week after earthquake cracked foundation of 3 campus buildings. Engineers assessing structural damage now. #MemphisQuake",Medium,Earthquake,Memphis
+144,"Hurricane shutters saved our house in Stuart FL. Neighbors without them have shattered windows throughout. Invest in protection people — it's worth every penny. #HurricanePrep",Medium,Hurricane,Stuart
+145,"Sandbagging operation continues along Pearl River near Jackson MS. Need 50000 more bags. Donations accepted at fairgrounds. National Guard assisting. #JacksonFlood",Medium,Flood,Jackson
+146,"Aerial view shows the Glass Fire burned right up to the edge of downtown St. Helena. Some structures lost on the outskirts. Firefighters made an incredible stand here. #GlassFire",Medium,Wildfire,St. Helena
+147,"USGS downgraded the initial quake from 7.1 to 6.9. Either way it was the strongest I've ever felt here in Long Beach. Checking on neighbors now. #SoCalQuake",Medium,Earthquake,Long Beach
+148,"Pine Island FL still cut off by road after hurricane destroyed the only bridge. Temporary barge service running but limited. Residents frustrated with slow response. #HurricaneIan",Medium,Hurricane,Pine Island
+149,"Video of flash flood rushing through Slot Canyon near Page AZ. No injuries reported but several hikers were evacuated. Reminder to always check weather before canyon hikes. #AZFlood",Medium,Flood,Page
+150,"Just drove through the Park Fire burn scar near Chico CA. Miles of blackened landscape. Some green patches already sprouting though. Nature is resilient. #ParkFire",Medium,Wildfire,Chico
+151,"Praying for everyone in Florida tonight. Stay safe and listen to evacuation orders. Mother nature is no joke 🙏💙 #HurricaneIan #FloridaStrong",Low,Hurricane,Florida
+152,"Just saw the earthquake coverage from Alaska on CNN. Incredible that a 7.0 can hit and there's relatively minimal casualties. Building codes matter. #AlaskaQuake",Low,Earthquake,Alaska
+153,"Sending love to all our friends in Houston dealing with the flooding 💕 We went through it in 2017 and I know how hard it is. Stay strong y'all #HoustonStrong",Low,Flood,Houston
+154,"The wildfire photos coming out of Maui are absolutely heartbreaking. What a beautiful place. Donating to Red Cross today. #MauiStrong #LahainaFire 🌺",Low,Wildfire,Maui
+155,"Remember when the earthquake hit during the World Series in SF in 1989? My parents still talk about it. Hoping the Bay Area stays safe 🙏 #BayAreaQuake",Low,Earthquake,San Francisco
+156,"Hurricane season prep reminder: stock up on water batteries and canned food NOW. Don't wait until it's heading your way! #HurricanePrep #BeReady 🌀",Low,Hurricane,United States
+157,"Can't believe the flooding in Kentucky right now. Those mountain communities are so vulnerable. If you can donate please do 💔 #KentuckyFlood #Appalachia",Low,Flood,Kentucky
+158,"Climate change is making wildfires worse every year. The data is clear. We need to act on emissions and also invest in forest management. #WildfireSeason #ClimateAction",Low,Wildfire,United States
+159,"TIL that the New Madrid fault line could produce a massive earthquake affecting Memphis St. Louis and Nashville. Scary stuff. #NewMadrid #Earthquakes",Low,Earthquake,Memphis
+160,"My aunt in Tampa says she's evacuating ahead of the hurricane. Smart move. Don't try to ride it out folks! #TampaStrong #HurricaneSeason",Low,Hurricane,Tampa
+161,"Interesting article in WaPo about how flood maps are outdated and millions live in unmapped flood zones. We need better data and policy. #FloodRisk #Infrastructure",Low,Flood,United States
+162,"Just watched that documentary about the 2018 Camp Fire in Paradise. Absolutely devastating. Everyone should watch it. Changed how I think about fire preparedness. #CampFire",Low,Wildfire,Paradise
+163,"Anyone else feel that earthquake in New Jersey this morning?? My whole office shook! First time I've ever felt one on the East Coast. Wild! #NJEarthquake",Low,Earthquake,New Jersey
+164,"Stocking up on hurricane supplies today in Orlando. Bread water batteries flashlights. Better safe than sorry! #HurricanePrep #Orlando 🔦",Low,Hurricane,Orlando
+165,"The before and after satellite images of the flooding in Yellowstone are insane. Roads just gone. Rivers carved new paths. Nature is powerful. #YellowstoneFlood",Low,Flood,Yellowstone
+166,"Smoke from Canadian wildfires making NYC air quality hazardous. Worst I've ever seen it here. Stay inside if you can. #NYCSmoke #CanadaFires",Low,Wildfire,New York City
+167,"Reading about earthquake-proof building design in Japan. We could learn a lot from their approach. Maybe adapt it for the Pacific Northwest. #EarthquakeEngineering",Low,Earthquake,Pacific Northwest
+168,"My company is matching donations for hurricane relief in Florida up to $50k. Link in my bio if you want to contribute! Every dollar helps 🙌 #HurricaneRelief #Florida",Low,Hurricane,Florida
+169,"Just learned that Houston has flooded 3 times in 3 years. At what point do we rethink urban planning in flood-prone areas? Serious question. #UrbanPlanning #FloodMitigation",Low,Flood,Houston
+170,"Firefighter appreciation post 🚒🔥 These men and women risk their lives every fire season in California and beyond. Buy a firefighter coffee today. #ThankAFirefighter",Low,Wildfire,California
+171,"Felt a small earthquake in Oklahoma this morning. 3.2 magnitude near Cushing. Probably fracking-related. #OKEarthquake #InducedSeismicity",Low,Earthquake,Cushing
+172,"Watching hurricane coverage from the safety of my couch in Denver. Can't imagine what those folks in Ft. Myers are going through. Stay safe 🙏 #HurricaneIan",Low,Hurricane,Fort Myers
+173,"10 years ago today SuperStorm Sandy devastated the Jersey Shore and NYC. Never forget the resilience of those communities. #Sandy10Years #NeverForget 🗽",Low,Flood,New York City
+174,"PSA: If you live near wildfire country make sure your homeowner's insurance covers fire damage. Many policies have gaps. Check yours today! #WildfireInsurance",Low,Wildfire,United States
+175,"My geology professor explained the Cascadia Subduction Zone today. A 9.0 earthquake is overdue in the PNW. Terrifying and fascinating. #CascadiaQuake #Geology 🌊",Low,Earthquake,Pacific Northwest
+176,"Beautiful sunset tonight in Galveston. Hard to believe a hurricane came through here just 2 weeks ago. The sky is healing even if the town isn't yet. #GalvestonStrong 🌅",Low,Hurricane,Galveston
+177,"Sharing this GoFundMe for a family in Waverly TN who lost everything in the flood. They're good people who need help. Link in comments. #WaverlyFlood #GoFundMe",Low,Flood,Waverly
+178,"Hot take: we should be doing WAY more controlled burns like Indigenous communities did for centuries. Would prevent these mega fires. #FireManagement #IndigenousWisdom 🔥",Low,Wildfire,United States
+179,"Earthquake kit checklist I made for my family: water for 3 days + first aid + flashlight + radio + whistle + dust mask + wrench for gas shutoff. What am I missing? #EarthquakePrep",Low,Earthquake,United States
+180,"Watching the Weather Channel hurricane tracker obsessively. This is my Super Bowl. Anyone else? 😂🌀 #WeatherNerd #HurricaneSeason",Low,Hurricane,United States
+181,"The flooding in Vermont last summer was historic. Glad to see Montpelier rebuilding but it's going to take years. Support local businesses there if you can! #VTStrong",Low,Flood,Montpelier
+182,"New study shows wildfire smoke exposure linked to long-term respiratory issues. Not just a fire season problem — it's a public health crisis. #WildfireSmoke #PublicHealth",Low,Wildfire,United States
+183,"Interesting thread on Twitter about how animals behave before earthquakes. My dog definitely acts weird before tremors in LA. Anyone else notice this? #EarthquakeDogs 🐕",Low,Earthquake,Los Angeles
+184,"Thank you to all the first responders working through Hurricane Ian in Florida. You are heroes. Full stop. 🙏🇺🇸 #FirstResponders #HurricaneIan",Low,Hurricane,Florida
+185,"Donated $100 to local flood relief in Pajaro CA. Small town that got hit hard when the levee broke. They need all the help they can get. #PajaroFlood",Low,Flood,Pajaro
+186,"Time-lapse video of the Bootleg Fire in Oregon is terrifying. 400,000 acres — larger than some states' total forest. Climate change is here. #BootlegFire #OregonFires",Low,Wildfire,Oregon
+187,"The earthquake early warning app actually worked today in LA! Got a 10-second heads up before the shaking started. Download ShakeAlert if you haven't! #ShakeAlert #LAQuake 📱",Low,Earthquake,Los Angeles
+188,"Neighbor's kid selling lemonade to raise money for hurricane victims in Louisiana. Humanity at its finest 🍋💛 #LouisianaStrong #KidsGiving",Low,Hurricane,Louisiana
+189,"Incredible photo of the Mississippi River flooding near Memphis — it's like an inland sea. Nature doesn't care about our property lines. #MississippiFlood #Memphis",Low,Flood,Memphis
+190,"Why do we keep building in fire-prone areas with no defensible space? I love California but the WUI problem is only getting worse. #WildlandUrbanInterface #CalFire",Low,Wildfire,California
+191,"Just completed my CERT (Community Emergency Response Team) training in Portland. Highly recommend it. Be prepared not scared! #CERT #EmergencyPrep #Portland",Low,Earthquake,Portland
+192,"Tracking Hurricane Idalia from Atlanta. Looks like it'll make landfall near Big Bend FL as a Cat 3. Praying for the panhandle region 🙏🌀 #HurricaneIdalia",Low,Hurricane,Big Bend
+193,"Great article about how the Dutch manage flooding with room for the river concepts. Could we apply similar approaches in the Mississippi River basin? #FloodMitigation #WaterManagement",Low,Flood,Mississippi River Basin
+194,"Smokey Bear was right all along. But also we need to let some forests burn naturally. It's complicated. 🐻🔥 #ForestManagement #WildfirePrevention",Low,Wildfire,United States
+195,"Historical earthquake map of the US is fascinating. The New Madrid zone in the 1800s had quakes that rang church bells in Boston. Imagine that today. #Seismology #History",Low,Earthquake,New Madrid
+196,"My friend in Sanibel Island just posted photos of her rebuilt home. 2 years after Ian and she's finally back. The resilience is inspiring 💪 #SanibelStrong #Rebuild",Low,Hurricane,Sanibel Island
+197,"Thread on how levee systems create a false sense of security in flood-prone cities. Important read for anyone in Sacramento or New Orleans areas. #FloodInfrastructure",Low,Flood,Sacramento
+198,"Autumn in Colorado is beautiful but fire season isn't over yet. Stay vigilant Front Range. One spark can change everything. #ColoradoFire #FrontRange 🍂🔥",Low,Wildfire,Colorado
+199,"The USGS ShakeMap from the Northridge earthquake is a great teaching tool. You can see exactly how ground motion varies with distance and soil type. #Seismology #Northridge",Low,Earthquake,Northridge
+200,"Another hurricane season in the books. 17 named storms. Let's hope next year is quieter but let's prepare like it won't be. #HurricaneSeason #AtlanticHurricanes 🌊",Low,Hurricane,Atlantic Coast

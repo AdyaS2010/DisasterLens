@@ -1,0 +1,18 @@
+# DisasterLens AI - Dependencies
+# Streamlit Cloud handles these automatically
+
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+spacy>=3.7.0
+geopy>=2.4.0
+folium>=0.15.0
+streamlit-folium>=0.15.0
+plotly>=5.18.0
+nltk>=3.8.0
+joblib>=1.3.0
+wordcloud>=1.9.0
+
+# Direct spaCy model download for seamless Streamlit Cloud deployment
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0.tar.gz
