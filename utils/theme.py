@@ -643,6 +643,18 @@ hr {{
 .fade-in-up-delay-2 {{ animation-delay: 0.2s; opacity: 0; }}
 .fade-in-up-delay-3 {{ animation-delay: 0.3s; opacity: 0; }}
 .fade-in-up-delay-4 {{ animation-delay: 0.4s; opacity: 0; }}
+
+/* ── Force Sidebar Collapse Button Visibility ── */
+[data-testid="collapsedControl"],
+[data-testid="stSidebarCollapsedControl"],
+section[data-testid="stSidebar"] > div > button,
+button[kind="headerIcon"] {{
+    display: inline-flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    z-index: 1000000 !important;
+    color: {c['text']} !important;
+}}
 </style>
 """
 
