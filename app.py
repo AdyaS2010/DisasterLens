@@ -15,7 +15,7 @@ sidebar_nav()
 c = get_colors()
 
 # ── Hero ───────────────────────────────────────────────────────────────────────
-st.markdown('<p class="gradient-text">DisasterLens AI</p>', unsafe_allow_html=True)
+st.markdown('<h1 class="gradient-text">DisasterLens AI</h1>', unsafe_allow_html=True)
 st.markdown(
     '<p class="subtitle">'
     "Real-time Disaster Intelligence · NLP-Powered Urgency Classification"

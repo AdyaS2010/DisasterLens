@@ -175,7 +175,16 @@ def _build_css():
 
     return f"""
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@800;900&family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+/* ── Themed Header ── */
+[data-testid="stHeader"] {{
+    background: {c['bg']} !important;
+}}
+[data-testid="stHeader"] svg, [data-testid="stHeader"] path {{
+    fill: {text_color} !important;
+    color: {text_color} !important;
+}}
 
 /* ── Hide Streamlit defaults ── */
 #MainMenu {{ display: none !important; }}
@@ -443,8 +452,10 @@ hr {{
 
 /* ── Animated gradient text ── */
 .gradient-text {{
-    font-size: {round(3.5 * font_scale, 1)}rem;
-    font-weight: 900;
+    font-family: 'Outfit', 'Inter', sans-serif !important;
+    font-size: {round(4.8 * font_scale, 1)}rem;
+    font-weight: 800;
+    letter-spacing: -2px;
     background: linear-gradient(135deg, {c['accent']}, {c['accent2']}, #3B82F6, #7E22CE);
     background-size: 300% 300%;
     -webkit-background-clip: text;
@@ -452,8 +463,9 @@ hr {{
     background-clip: text;
     animation: {gradient_anim};
     text-align: center;
-    line-height: 1.2;
-    margin-bottom: 0;
+    line-height: 1.1;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
 }}
 @keyframes gradient-shift {{
     0%   {{ background-position: 0% 50%; }}
