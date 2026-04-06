@@ -180,7 +180,6 @@ def _build_css():
 /* ── Hide Streamlit defaults ── */
 [data-testid="stSidebarNav"] {{ display: none !important; }}
 #MainMenu {{ display: none !important; }}
-[data-testid="stHeader"] button[kind="header"] {{ display: none !important; }}
 header [data-testid="stToolbar"] {{ display: none !important; }}
 footer {{ display: none !important; }}
 
