@@ -178,9 +178,7 @@ def _build_css():
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 
 /* ── Hide Streamlit defaults ── */
-[data-testid="stSidebarNav"] {{ display: none !important; }}
 #MainMenu {{ display: none !important; }}
-header [data-testid="stToolbar"] {{ display: none !important; }}
 footer {{ display: none !important; }}
 
 /* ── Base ── */
@@ -196,9 +194,6 @@ html, body, [data-testid="stAppViewContainer"], .main {{
 /* ── Background ── */
 [data-testid="stAppViewContainer"] {{
     background: {c['main_bg']} !important;
-}}
-[data-testid="stHeader"] {{
-    background: transparent !important;
 }}
 
 /* ── GLOBAL TEXT COLOR OVERRIDES ── */
@@ -643,18 +638,6 @@ hr {{
 .fade-in-up-delay-2 {{ animation-delay: 0.2s; opacity: 0; }}
 .fade-in-up-delay-3 {{ animation-delay: 0.3s; opacity: 0; }}
 .fade-in-up-delay-4 {{ animation-delay: 0.4s; opacity: 0; }}
-
-/* ── Force Sidebar Collapse Button Visibility ── */
-[data-testid="collapsedControl"],
-[data-testid="stSidebarCollapsedControl"],
-section[data-testid="stSidebar"] > div > button,
-button[kind="headerIcon"] {{
-    display: inline-flex !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    z-index: 1000000 !important;
-    color: {c['text']} !important;
-}}
 </style>
 """
 
