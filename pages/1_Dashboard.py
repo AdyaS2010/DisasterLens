@@ -1,3 +1,16 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# pages/1_Dashboard.py — Analytics Dashboard
+#
+# Data upload and visualization dashboard. Displays urgency distribution
+# charts, disaster type breakdowns, geographic heatmaps, temporal trends,
+# and detailed data tables. Supports user-uploaded CSVs alongside the
+# built-in sample dataset.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go

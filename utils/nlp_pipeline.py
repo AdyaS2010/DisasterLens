@@ -1,3 +1,16 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# utils/nlp_pipeline.py — NLP Processing Pipeline
+#
+# Core natural language processing module. Provides text preprocessing
+# (tokenization, stopword removal, URL/mention stripping), named entity
+# extraction (spaCy GPE/LOC), geocoding via Nominatim, and disaster-context-
+# aware VADER sentiment analysis with misleading-positive penalties.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import re
 import time
 

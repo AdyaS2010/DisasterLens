@@ -1,3 +1,15 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# pages/2_Live_Map.py — Interactive Live Disaster Map
+#
+# Real-time disaster map powered by Folium. Fetches live earthquake data
+# from USGS and wildfire perimeters from NASA EONET, overlays urgency-coded
+# markers, and renders an interactive map with clustering and popups.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import streamlit as st
 import folium
 from streamlit_folium import folium_static

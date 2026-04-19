@@ -1,3 +1,16 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# train_model.py — TF-IDF Urgency Classifier Training Script
+#
+# Standalone CLI script that trains a TF-IDF + Logistic Regression pipeline
+# on the sample disaster tweets CSV. Produces a serialized .joblib model file
+# in models/ that the app loads at runtime as the lightweight fallback
+# classifier when DistilBERT is unavailable.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import os
 import sys
 

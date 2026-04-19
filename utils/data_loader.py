@@ -1,3 +1,15 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# utils/data_loader.py — Dataset Loading & Ingestion
+#
+# Provides cached data loading functions for the application. Handles the
+# built-in sample disaster tweets CSV, user-uploaded CSV files, and
+# Streamlit caching for performance.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import os
 
 import streamlit as st

@@ -1,3 +1,16 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# pages/3_Analyze_Post.py — Single Post Urgency Analyzer
+#
+# Interactive tool for analyzing individual text posts. Runs the full NLP
+# pipeline (preprocessing, NER, sentiment) and urgency classification on
+# user-supplied text, displaying per-class confidence, key entities,
+# location extraction, and a detailed analysis breakdown.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import streamlit as st
 import pandas as pd
 

@@ -1,3 +1,16 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# utils/theme.py — Premium Design System & UI Components
+#
+# Centralized design system powering the entire application. Generates
+# dynamic CSS for light/dark themes, defines color tokens, urgency palettes,
+# Plotly chart theming, accessibility settings (font scaling, high contrast,
+# reduced motion), sidebar navigation, and reusable UI components.
+# ──────────────────────────────────────────────────────────────────────────────
+
 """
 DisasterLens AI — Premium Design System
 Shared CSS, color tokens, Plotly layouts, and accessibility settings.
@@ -691,6 +704,7 @@ def sidebar_nav():
         st.page_link("pages/2_Live_Map.py", label="🗺️  Live Map", width="stretch")
         st.page_link("pages/3_Analyze_Post.py", label="🔍  Analyze Post", width="stretch")
         st.page_link("pages/4_EDA.py", label="📈  Exploratory Analysis", width="stretch")
+        st.page_link("pages/5_Live_Feed.py", label="📡  Live Feed", width="stretch")
         st.divider()
 
         # ── Settings ──────────────────────────────────────────────────────

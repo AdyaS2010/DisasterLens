@@ -1,3 +1,16 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# pages/4_EDA.py — Exploratory Data Analysis
+#
+# In-depth text analytics and visualization suite. Generates word clouds,
+# bigram/trigram frequency charts, character and word length distributions,
+# sentiment breakdowns by disaster type, urgency co-occurrence matrices,
+# and interactive Plotly charts styled with the global design system.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go

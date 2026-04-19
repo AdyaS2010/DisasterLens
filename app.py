@@ -1,3 +1,16 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# DisasterLens AI
+# Developer: Adya S.
+# Email:     adyasastry@gmail.com
+# ──────────────────────────────────────────────────────────────────────────────
+# app.py — Main Entry Point
+#
+# The primary Streamlit application file. Renders the landing page with the
+# hero section, system status indicators, urgency level legend, "How It Works"
+# pipeline overview, and feature navigation cards. Injects the global design
+# system and sidebar navigation on every load.
+# ──────────────────────────────────────────────────────────────────────────────
+
 import streamlit as st
 
 st.set_page_config(
@@ -40,11 +53,12 @@ st.markdown(
 )
 
 # ── Metrics ────────────────────────────────────────────────────────────────────
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3, col4, col5 = st.columns(5)
 col1.metric("Disaster Types", "4", "Tracked")
 col2.metric("Urgency Levels", "4", "Classified")
-col3.metric("ML Pipeline", "TF-IDF + LR", "Trained")
+col3.metric("ML Models", "DistilBERT", "+ TF-IDF fallback")
 col4.metric("Live Feeds", "USGS · NASA", "Connected")
+col5.metric("Social Feeds", "Reddit · Bluesky", "+ Twitter hook")
 
 st.divider()
 
@@ -59,16 +73,16 @@ with left:
     )
     st.markdown(
         """
-        **DisasterLens AI** is a disaster response platform that uses
-        **Natural Language Processing** and **Machine Learning** to analyze
-        social media posts during natural disasters.
+        **DisasterLens AI** is a production-grade disaster response platform
+        that uses **Deep Learning (DistilBERT)** and **NLP** to analyze
+        social media posts during natural disasters in real-time.
 
         It classifies the **urgency level** of each post so emergency
         responders can prioritize the most critical calls for help.
 
-        - 🔎 **Analyze** post text via NLP techniques
-        - ⚡ **Classify** urgency — Critical, High, Medium, or Low
-        - 🗺️ **Map** locations on interactive maps
+        - 📡 **Live feeds** from Reddit, Bluesky, and Twitter/X
+        - 🤖 **DistilBERT classifier** trained on CrisisNLP data
+        - 🗺️ **Map** disaster events on interactive maps
         - 📊 **Visualize** trends for coordinated response
         """
     )
@@ -149,9 +163,10 @@ features = [
     ("🗺️", "Live Map", "Real-time disasters on an interactive map with urgency markers."),
     ("🔍", "Analyze Post", "Paste text for instant urgency prediction with NLP analysis."),
     ("📈", "EDA", "Word clouds, bigrams, sentiment distributions, and more."),
+    ("📡", "Live Feed", "Real-time social media monitoring from Reddit, Bluesky & Twitter/X."),
 ]
 
-cols = st.columns(4)
+cols = st.columns(len(features))
 for col, (icon, name, desc) in zip(cols, features):
     with col:
         st.markdown(

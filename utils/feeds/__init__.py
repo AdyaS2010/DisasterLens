@@ -3,9 +3,9 @@
 # Developer: Adya S.
 # Email:     adyasastry@gmail.com
 # ──────────────────────────────────────────────────────────────────────────────
-# pages/__init__.py — Streamlit Pages Package
+# utils/feeds/__init__.py — Social Media Feed Connectors Package
 #
-# Package marker for the multi-page Streamlit application. Individual pages
-# (Dashboard, Live Map, Analyze Post, EDA, Live Feed) are auto-discovered
-# by Streamlit from this directory.
+# Sub-package exposing live feed connectors for Reddit (PRAW), Bluesky
+# (AT Protocol), and Twitter/X (Tweepy). Each connector handles
+# authentication, search, and relevance filtering independently.
 # ──────────────────────────────────────────────────────────────────────────────

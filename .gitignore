@@ -28,6 +28,13 @@ Thumbs.db
 data/*.csv
 !data/sample_disaster_tweets.csv
 
+# ML models (too large for git — download or train locally)
+models/bert/
+models/bert/checkpoints/
+
+# HuggingFace cache
+.cache/
+
 # Jupyter
 .ipynb_checkpoints/
 
